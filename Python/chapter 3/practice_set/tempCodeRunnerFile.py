@@ -1,0 +1,1 @@
+print(letter.replace("<|Name|>", "Yash").replace("<|Date|>"," sept 03 2024"))  
